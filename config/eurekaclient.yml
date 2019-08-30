@@ -1,0 +1,5 @@
+server: 
+  port: 8673
+spring:
+  application:
+    name: eurekaclient
